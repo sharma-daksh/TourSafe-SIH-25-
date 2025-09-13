@@ -1,0 +1,18 @@
+To run your whole project (React frontend + Flask backend), follow these steps:
+
+1. Start the Flask Backend
+Open a terminal and run:
+
+cd C:\Users\Daksh\Desktop\main
+python call.py
+
+Leave this terminal running.
+Your backend will be available at http://localhost:5000.
+
+2. Start the React Frontend
+Open a second terminal and run:
+cd C:\Users\Daksh\Desktop\main\TourSafe-SIH-25-
+npm install        # (only needed the first time)
+npm run dev
+
+Your frontend will be available at http://localhost:5173 (or the port shown in the terminal).
